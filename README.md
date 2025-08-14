@@ -1,4 +1,4 @@
-# hand-sign-detection
+
 # Hand Sign Detection
 
 A Python-based **Hand Sign Detection** system that uses computer vision and machine learning to recognize hand gestures in real-time using a webcam.  
